@@ -8,7 +8,7 @@
 
 🏅 Certified in Microsoft Azure AI Fundamentals.
 
-🌍 International student from India 🇮🇳 | Dancer & event organizer 💃
+🌍 International student from India 🇮🇳 
 
 ## 🛠️ Skills & Tools
 
