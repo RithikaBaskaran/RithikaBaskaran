@@ -24,6 +24,9 @@
 
 ## 🌟 Featured Projects
 
+🔗 [Real-Time Bitcoin Price Analysis Using Amazon EMR](https://github.com/causify-ai/tutorials/pull/252)  
+➡️ Contributed a full tutorial on time-series analysis using Spark and EMR  
+
 🧠 **[AI-Powered Research Assistant Platform](#)** *(Favorite Project)*
 
 -Developed a Python-based platform using machine learning and NLP to retrieve research papers and generate summaries.
