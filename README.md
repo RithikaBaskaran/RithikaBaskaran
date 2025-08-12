@@ -1,70 +1,47 @@
 # 👋 Hi there, I'm Rithika Baskaran!
 
-🎓 Graduate student at the University of Maryland, pursuing an MS in Data Science (GPA: 3.8).
-
-💻 Passionate about data science, artificial intelligence (AI), machine learning, NLP, and data visualization.
-
-🧩 Exploring AI applications, from generative models to real-world automation solutions.
-
-🏅 Certified in Microsoft Azure AI Fundamentals.
-
-🌍 International student from India 🇮🇳 
+🎓 Graduate student at the University of Maryland, pursuing an MS in Data Science (GPA: 3.8).  
+💻 Passionate about AI, machine learning, NLP, recommendation systems, and data visualization.  
+🧩 Experienced in building real-world AI solutions, from LLM-powered apps to large-scale data pipelines.  
+🏅 Certified in Microsoft Azure AI Fundamentals.  
+🌍 International student from India 🇮🇳  
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python 🐍 | R 📉 | C | MATLAB | SQL
-
-**Libraries:** scikit-learn | NumPy | Pandas | Matplotlib | Seaborn | TensorFlow | Flask
-
-**Tools:** Git & GitHub | Jupyter Notebook | Postman | Azure ☁️ | Hugging Face Transformers
-
-**Techniques:** Machine Learning | NLP | Reinforcement Learning | Data Wrangling | Statistical Modeling | AI Development
-
-**Soft Skills:** Event planning | Leadership | Collaboration
+**Languages:** Python 🐍 | C | MATLAB | SQL   
+**Libraries & Frameworks:** scikit-learn | NumPy | Pandas | Matplotlib | Seaborn | TensorFlow | Hugging Face Transformers | Flask  
+**Tools & Platforms:** Databricks | PySpark | AWS (EC2, S3, EMR) | Azure ☁️ | Git & GitHub | Cursor IDE | Jupyter Notebook | Postman  
+**Techniques:** Machine Learning | NLP | Recommendation Systems | Prompt Engineering | Reinforcement Learning | Statistical Modeling | Data Wrangling  
 
 ## 🌟 Featured Projects
 
-### 🌟 Featured Projects
+### 💳 [Personalized Rewards Recommendation System – OnePay Internship](#) *(Summer 2025)*  
+- Built a personalized rewards recommendation system in **Databricks** using **Python** and **PySpark** to target merchants based on customer spending.  
+- Implemented collaborative filtering, explored two-tower deep learning, and tested LLM-based approaches (LLaMA, Gemma, GPT-OSS) for explainable recommendations.  
+- Delivered insights that helped the AI Team secure buy-in for deployment and future iterations.
 
-🔗 [Real-Time Bitcoin Price Analysis Using Amazon EMR](https://github.com/causify-ai/tutorials/pull/252)  
-- Developed a complete tutorial using Spark on Amazon EMR to ingest, process, and analyze real-time Bitcoin prices with AWS S3 integration.
-  
-🧠 **[AI-Powered Research Assistant Platform](#)** *(Favorite Project)*
+### 📈 [Real-Time Bitcoin Price Analysis Using Amazon EMR](https://github.com/causify-ai/tutorials/pull/252)  
+- Developed a Spark-based pipeline on AWS EMR to ingest, process, and analyze real-time Bitcoin prices with S3 integration.  
 
--Developed a Python-based platform using machine learning and NLP to retrieve research papers and generate summaries.
+### 🧠 **[AI-Powered Research Assistant Platform](#)** *(Favorite Project)*  
+- Created a Python-based ML/NLP platform to retrieve research papers, summarize them with BART Transformers, and support automated literature reviews.
 
--Automated literature reviews, reducing processing time by 30%, and improved research workflows.
+### 🌱 **[Early Detection of Problematic Internet Usage](#)**  
+- Achieved 99.43% accuracy using Random Forest Classifier with KNN imputation & SMOTE.
 
--Integrated BART Transformer models for abstractive summarization and image retrieval.
+### 💬 **[AI-Powered Financial Chatbot](#)** *(BCG GenAI Simulation)*  
+- Built an NLP-powered chatbot to interpret 10-K & 10-Q reports for intuitive financial insights.
 
-🌱 **[Early Detection of Problematic Internet Usage](#)** 
-
--Achieved 99.43% accuracy using a Random Forest Classifier with KNN imputation & SMOTE for data handling.
-
-💬 **[AI-Powered Financial Chatbot](#)** *(BCG GenAI Simulation)*  
-
--Built a chatbot interpreting 10-K & 10-Q reports using NLP and AI techniques for intuitive financial insights.
-
-🍕 **[Pizza Hub Management System](#)** *(Personal Project)*
-
--Developed a Python-based application with SQL and Flask to manage pizza orders and streamline operations.
+### 🍕 **[Pizza Hub Management System](#)** *(Personal Project)*  
+- Developed a Python + SQL + Flask application to manage pizza orders and streamline operations.
 
 ## 🌱 Current Learning Goals
-
-🔄 Expanding knowledge in Artificial Intelligence, focusing on generative models and reinforcement learning.
-
-🔬 Deepening expertise in Natural Language Processing (NLP) and AI ethics.
-
-🔄 Building AI-driven applications with real-world impact.
-
-🎯 Exploring computer vision and multimodal AI systems.
+- Advancing skills in LLM applications & prompt engineering.  
+- Exploring LangChain, RAG pipelines, and model deployment.  
+- Building hybrid AI architectures combining traditional ML with LLMs.  
 
 ## 📬 Let's Connect!
+📧 Email: rithikab@umd.edu  
+💼 [LinkedIn](https://www.linkedin.com/in/rithika-baskaran322/)  
 
-📧 Email: rithikab@umd.edu
-
-💼 LinkedIn: https://www.linkedin.com/in/rithika-baskaran322/
-
-⭐️ *Thanks for stopping by! Let’s collaborate and explore the world of AI and data science together.*
-
-
+⭐️ *Thanks for stopping by! Let’s collaborate and explore the world of AI and data science together.*  
