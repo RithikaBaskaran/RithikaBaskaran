@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rithika Baskaran!
 
-🎓 Graduate student at the University of Maryland, pursuing an MS in Data Science (GPA: 3.8).  
+🎓 Graduate student at the University of Maryland, pursuing an MS in Data Science (GPA: 3.95).  
 💻 Passionate about AI, machine learning, NLP, recommendation systems, and data visualization.  
 🧩 Experienced in building real-world AI solutions, from LLM-powered apps to large-scale data pipelines.  
 🏅 Certified in Microsoft Azure AI Fundamentals.  
