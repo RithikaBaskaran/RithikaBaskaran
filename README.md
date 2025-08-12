@@ -20,7 +20,7 @@
 - Implemented collaborative filtering, explored two-tower deep learning, and tested LLM-based approaches (LLaMA, Gemma, GPT-OSS) for explainable recommendations.  
 - Delivered insights that helped the AI Team secure buy-in for deployment and future iterations.
 
-### 📈 [Real-Time Bitcoin Price Analysis Using Amazon EMR](https://github.com/causify-ai/tutorials/pull/252)  
+### 📈 [Real-Time Bitcoin Price Analysis Using Amazon EMR]([https://github.com/causify-ai/tutorials/pull/252](https://github.com/causify-ai/tutorials/tree/master/DATA605/Spring2025/projects/TutorTask86_Spring2025_Real_Time_Bitcoin_Price_Analysis_Using_Amazon_EMR))  
 - Developed a Spark-based pipeline on AWS EMR to ingest, process, and analyze real-time Bitcoin prices with S3 integration.  
 
 ### 🧠 **[AI-Powered Research Assistant Platform](#)** *(Favorite Project)*  
