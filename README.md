@@ -15,6 +15,11 @@
 
 ## 🌟 Featured Projects
 
+### 🧭  [LiteSearch – TF-IDF + Autocorrect Engine](https://github.com/RithikaBaskaran/tfidf-autocorrect-search)  
+A lightweight Python search engine built from scratch.  
+Uses TF-IDF ranking, subword BPE, and Levenshtein-based autocorrect to retrieve relevant passages from large text corpora.  
+Demonstrates practical information retrieval and NLP fundamentals.
+
 ### 💳 [Personalized Rewards Recommendation System – OnePay Internship](#) *(Summer 2025)*  
 - Built a personalized rewards recommendation system in **Databricks** using **Python** and **PySpark** to target merchants based on customer spending.  
 - Implemented collaborative filtering, explored two-tower deep learning, and tested LLM-based approaches (LLaMA, Gemma, GPT-OSS) for explainable recommendations.  
