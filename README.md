@@ -46,7 +46,7 @@ Demonstrates practical information retrieval and NLP fundamentals.
 - Building hybrid AI architectures combining traditional ML with LLMs.  
 
 ## 📬 Let's Connect!
-📧 Email: rithikab@umd.edu  
+📧 Email: rithi.basky@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/rithika-baskaran322/)  
 
 ⭐️ *Thanks for stopping by! Let’s collaborate and explore the world of AI and data science together.*  
