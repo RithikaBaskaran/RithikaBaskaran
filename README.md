@@ -1,19 +1,26 @@
 # 👋 Hi there, I'm Rithika Baskaran!
 
 🎓 Graduate student at the University of Maryland, pursuing an MS in Data Science (GPA: 3.95).  
-💻 Passionate about AI, machine learning, NLP and recommendation systems.  
+💻 Passionate about AI/ML, NLP, and recommendation system.     
 🧩 Experienced in building real-world AI solutions, from LLM-powered apps to large-scale data pipelines.  
 🏅 Certified in Microsoft Azure AI Fundamentals.  
 🌍 International student from India 🇮🇳  
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python 🐍 | C | MATLAB | SQL   
-**Libraries & Frameworks:** scikit-learn | NumPy | Pandas | Matplotlib | Seaborn | TensorFlow | Hugging Face Transformers | Flask  
-**Tools & Platforms:** Databricks | PySpark | AWS (EC2, S3, EMR) | Azure ☁️ | Git & GitHub | Cursor IDE | Jupyter Notebook | Postman  
-**Techniques:** Machine Learning | NLP | Recommendation Systems | Prompt Engineering | Reinforcement Learning | Statistical Modeling | Data Wrangling  
+**Languages**: Python 🐍 · SQL · C · MATLAB    
+**Libraries/Frameworks**: scikit-learn · NumPy · Pandas · Matplotlib · Seaborn · TensorFlow · Hugging Face Transformers · Flask · Gradio    
+**Platforms/Tools**: Databricks · PySpark · AWS (EC2, S3, EMR) · Azure ☁️ · Git/GitHub · GitLab · Cursor IDE · Jupyter · Postman · Hugging Face Spaces    
+**Techniques**: Machine Learning · NLP · Recommender Systems · Prompt Engineering · Reinforcement Learning · Statistical Modeling · Data Wrangling · Model Serving & App Deployment    
+**New from latest project**: CLIP · Cosine Similarity–based scoring · Space YAML config · Lightweight UX for model evaluation
 
 ## 🌟 Featured Projects
+
+### 🧠 [Generative Image Evaluator (CLIP) — Public Demo · GitHub](https://github.com/RithikaBaskaran/Generative-Image-Evaluation)
+Interactive Gradio app that:   
+	•	Computes image–text alignment via CLIP cosine similarity   
+	•	Estimates an aesthetic score using reference HQ images    
+	•	Deployed on Hugging Face Spaces with a simple, shareable UI [![🤗 Try on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Try%20on%20Hugging%20Face-yellow)](https://huggingface.co/spaces/RithikaBaskaran/generative-image-evaluator)
 
 ### 🧭  [LiteSearch – TF-IDF + Autocorrect Engine](https://github.com/RithikaBaskaran/tfidf-autocorrect-search)  
 A lightweight Python search engine built from scratch.  
